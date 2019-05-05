@@ -19,4 +19,4 @@ Uses a Gated Recurrent Unit to understand temporal dependencies in order to pred
 ### Convolutional Model
 conv-a3c.py uses convolutional network to predict optimal actions. It uses four frames as state input.
 
-![alt text](https://github.com/SamarthGupta93/Attention-Actor-Critic-for-Atari-Learning/blob/master/Conv model.PNG)
+![alt text](https://github.com/SamarthGupta93/Attention-Actor-Critic-for-Atari-Learning/blob/master/conv_model.PNG)
