@@ -1,5 +1,5 @@
 # Attention-Actor-Critic-for-Atari-Learning
-Attention Actor Critic for Atari Learning 
+A Reinforcement Learning algorithm with attention mechanism for Atari Learning 
 
 This is a Reinforcement Learning based Actor Critic model for Atari Games Learning. The repository contains three different architectures. 
 
