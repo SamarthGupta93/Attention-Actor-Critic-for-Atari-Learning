@@ -1,4 +1,4 @@
-# Baby Advantage Actor-Critic | Sam Greydanus | October 2017 | MIT License
+# Built on Sam Greydanus' Baby Advantage Actor-Critic network
 
 from __future__ import print_function
 import torch, os, gym, time, glob, argparse, sys
